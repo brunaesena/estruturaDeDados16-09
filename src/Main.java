@@ -40,6 +40,5 @@ public class Main {
             vetorAlunos[i] = new Aluno(nomeAluno,semestreAluno,salaAluno,cursoAluno,notasAluno,enderecoAluno);
 
         }
-
     }
 }
